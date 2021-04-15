@@ -4,32 +4,33 @@ h3,
 p {
   font-family: "Helvetica", sans-serif;
 }
-
+/* changes font-family for h1,h2,h3 and p tags*/
 h1 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   text-align: center;
   font-size: 100px;
   color: khaki;
 }
-
+/* sets background to a image from url, aligns text to center and font to 100px and color to khaki */
 .item h2 {
   font-size: 32px;
   color: white;
 }
-
+/* changes the h2 of class .item to font 12 and color white.*/
 .price {
   font-weight: bold;
   color: blue;
 }
-
+/* change .price class font-weight and color*/
 #brush {
   background-color: mediumspringgreen;
 }
-
+/* changes the background color to element with id of brush*/
 #frame {
   background-color: lightcoral;
 }
-
+/* changes the background color to element with id of frame*/
 #paint {
   background-color: skyblue;
 }
+/* changes the background color to element with id of paint*/
