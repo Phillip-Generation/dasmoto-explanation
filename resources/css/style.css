@@ -13,13 +13,13 @@ h1 {
 }
 
 .item h2 {
-  font-size: 32px;
+  font-size: 30px;
   color: white;
 }
 
 .price {
   font-weight: bold;
-  color: blue;
+  color: green;
 }
 
 #brush {
