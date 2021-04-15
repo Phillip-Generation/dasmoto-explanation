@@ -3,33 +3,33 @@ h2,
 h3, 
 p {
   font-family: "Helvetica", sans-serif;
-}
+}/* providing font family  */
 
-h1 {
+h1 { /*importing background-image for h1, aligning heading to center, adding color and size of text */
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   text-align: center;
   font-size: 100px;
   color: khaki;
 }
 
-.item h2 {
+.item h2 { /* adding font-size and changing color to white*/
   font-size: 32px;
   color: white;
 }
 
-.price {
+.price { /* changing font weight to bold and color to blue */
   font-weight: bold;
   color: blue;
 }
 
-#brush {
+#brush { /* adding background color to medium spring green */
   background-color: mediumspringgreen;
 }
 
-#frame {
+#frame { /* adding background color to light corral*/
   background-color: lightcoral;
 }
 
-#paint {
+#paint { /* adding background color skyblue*/
   background-color: skyblue;
 }
