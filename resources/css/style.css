@@ -1,34 +1,34 @@
-h1, 
+h1,/*Head tags*/
 h2, 
 h3, 
 p {
   font-family: "Helvetica", sans-serif;
-}
+}/* Pargraph tags*/
 
 h1 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   text-align: center;
   font-size: 100px;
   color: khaki;
-}
+}/* Styling h1*/
 
 .item h2 {
   font-size: 32px;
   color: white;
-}
+}/* Styling h2*/
 
 .price {
   font-weight: bold;
   color: blue;
-}
+}/* Styling class price*/
 
 #brush {
   background-color: mediumspringgreen;
-}
+}/* Styling brush*/
 
 #frame {
   background-color: lightcoral;
-}
+}/* Styling frame*/
 
 #paint {
   background-color: skyblue;
