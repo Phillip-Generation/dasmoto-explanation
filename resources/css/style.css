@@ -1,35 +1,42 @@
+/* Above heading tags and paragraph will show in Helvetica or sans serif font */
 h1, 
 h2, 
 h3, 
 p {
   font-family: "Helvetica", sans-serif;
-}
+} 
 
+/* Assigning h1 background image, centering, and applying font size and color */
 h1 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   text-align: center;
   font-size: 100px;
   color: khaki;
-}
+} 
 
+/* Assigning h2 font size and color */
 .item h2 {
   font-size: 32px;
   color: white;
 }
 
+/* Making price class bold and blue */
 .price {
   font-weight: bold;
   color: blue;
 }
 
+/* Assigning brush ID background color */
 #brush {
   background-color: mediumspringgreen;
 }
 
+/* Assigning frame ID background color */
 #frame {
   background-color: lightcoral;
 }
 
+/* Assigning paint ID background color */
 #paint {
   background-color: skyblue;
 }
