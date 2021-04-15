@@ -1,3 +1,4 @@
+<!-- This sets the font-family for h1, h2, h3, and p -->
 h1, 
 h2, 
 h3, 
@@ -5,6 +6,7 @@ p {
   font-family: "Helvetica", sans-serif;
 }
 
+<!-- This sets the background image and font size, color, and alignment for h1 -->
 h1 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   text-align: center;
@@ -12,24 +14,29 @@ h1 {
   color: khaki;
 }
 
+<!-- This sets the font size and color for the h2 headings in the item class -->
 .item h2 {
   font-size: 32px;
   color: white;
 }
 
+<!-- This sets the font weight and color for the price -->
 .price {
   font-weight: bold;
   color: blue;
 }
 
+<!-- This sets the background color for the brush id -->
 #brush {
   background-color: mediumspringgreen;
 }
 
+<!-- This sets the background color for the frame id -->
 #frame {
   background-color: lightcoral;
 }
 
+<!-- This sets the background color for the paint id -->
 #paint {
   background-color: skyblue;
 }
