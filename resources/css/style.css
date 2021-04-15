@@ -1,10 +1,13 @@
+
+/* font family declaration for h1, h2, h3, p */
 h1, 
 h2, 
 h3, 
 p {
-  font-family: "Helvetica", sans-serif;
+  font-family: "Helvetica", sans-serif; 
 }
 
+/* h1 styling for background image, text alignment, font size and font color */
 h1 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
   text-align: center;
@@ -12,24 +15,26 @@ h1 {
   color: khaki;
 }
 
+/* for the h2 of the class item, styling for font size and font color */
 .item h2 {
   font-size: 32px;
   color: white;
 }
 
+/* for the class price font-weight and font color */
 .price {
   font-weight: bold;
   color: blue;
 }
-
+/* for the id brush it gives a background color */
 #brush {
   background-color: mediumspringgreen;
 }
-
+/* for the id frame it gives a background color */
 #frame {
   background-color: lightcoral;
 }
-
+/* for the id paint it gives a background color */
 #paint {
   background-color: skyblue;
 }
